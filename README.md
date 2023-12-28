@@ -21,7 +21,7 @@ Shiptest is a thrill-packed round-based exploration and roleplaying game set aga
 
 [Downloading](.github/DOWNLOADING.md)
 
-[Running on the server](.github/RUNNING_A_SERVER.md)
+[Running on the server](.github/RUNNING_A_SERVER.md) - this is weird, just run run.bat in main folder to compile, then run via 5.14 dreamdaemon 
 
 [Maps and Away Missions](.github/MAPS_AND_AWAY_MISSIONS.md)
 
