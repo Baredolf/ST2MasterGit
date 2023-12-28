@@ -1,3 +1,6 @@
+This is a fork of a fork of a fork of a fork, Many things need changing to make it its own, Please be patient as updates roll out and things change - Most of the information below is for the MAIN shiptest server but can still be used here
+- Baredolf is NOT an admin/coder/lead for the main shiptest and has no property rights to anything within these files, please do not ask for individual rights as the majority is claimed under goonstations free-usage claim
+
 # Shiptest Codebase
 
 [![Checks](https://github.com/shiptest-ss13/Shiptest/workflows/Checks/badge.svg)](https://github.com/shiptest-ss13/Shiptest/actions/workflows/ci_suite.yml) [![Percentage of issues still open](http://isitmaintained.com/badge/open/shiptest-ss13/Shiptest.svg)](https://isitmaintained.com/project/shiptest-ss13/Shiptest "Percentage of issues still open") [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/shiptest-ss13/Shiptest.svg)](https://isitmaintained.com/project/shiptest-ss13/Shiptest "Average time to resolve an issue") [![GitHub issues](https://img.shields.io/github/issues/shiptest-ss13/Shiptest)](https://github.com/shiptest-ss13/Shiptest/issues) ![GitHub top language](https://img.shields.io/github/languages/top/shiptest-ss13/Shiptest)
@@ -8,8 +11,7 @@
 -   **Patreon:** <https://www.patreon.com/shiptest_ss13>
 -   **Wiki:** <https://shiptest.net/wiki>
 -   **Code Docs:** <https://codedocs.shiptest.net>
--   **Discord:** <https://shiptest.net/discord>
--   **Coderbus Discord:** <https://discord.gg/Vh8TJp9>
+-   **Discord:** <https://discord.gg/hZPGqZbfGR>
 
 This is the codebase for the Ship-based Shiptest flavoured fork of SpaceStation 13.
 
