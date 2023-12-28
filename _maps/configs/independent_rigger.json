@@ -1,0 +1,59 @@
+{
+	"$schema": "https://raw.githubusercontent.com/shiptest-ss13/Shiptest/master/_maps/ship_config_schema.json",
+	"map_name": "Riggs-class Sloop",
+	"prefix": "SV",
+	"namelists": [
+		"GENERAL",
+		"SPACE",
+		"NATURAL",
+		"NATURAL_AGGRESSIVE"
+	],
+	"map_short_name": "Riggs-class",
+	"description": "The Rigger-class is Kasagi-Fischer Partnership’s mainstay in the independent ship market. Spacious, affordable, and versatile, Riggers offer basic capabilities for everything a Frontier spacer might need in a convenient, easy-to-modify platform, and by default come equipped with a basic medbay, a small security office, atmospherics recycling and equipment to support an APLU utility mech. Thanks to this versatility, Riggers have become extremely popular among moderately-wealthy independent captains, and can be found doing everything from mining to shipping to surveying Frontier planets.",
+	"tags": [
+		"Mining",
+		"Medical",
+		"Robotics",
+		"Generalist"
+	],
+	"map_path": "_maps/shuttles/independent/independent_rigger.dmm",
+	"roundstart": true,
+	"limit": 1,
+	"job_slots": {
+		"Captain": {
+			"outfit": "/datum/outfit/job/captain/western",
+			"officer": true,
+			"slots": 1
+		},
+		"First Mate": {
+			"outfit": "/datum/outfit/job/head_of_personnel/western",
+			"officer": true,
+			"slots": 1
+		},
+		"Ship's Doctor": {
+			"outfit": "/datum/outfit/job/doctor",
+			"slots": 1
+		},
+		"Machinist's Mate": {
+			"outfit": "/datum/outfit/job/engineer",
+			"slots": 2
+		},
+		"Asteroid Miner": {
+			"outfit": "/datum/outfit/job/miner/hazard",
+			"slots": 2
+		},
+		"Mech Technician": {
+			"outfit": "/datum/outfit/job/roboticist/technician",
+			"slots": 1
+		},
+		"Security Detail": {
+			"outfit": "/datum/outfit/job/security/western",
+			"slots": 1
+		},
+		"Deckhand": {
+			"outfit": "/datum/outfit/job/assistant",
+			"slots": 4
+		}
+	},
+	"enabled": true
+}
